@@ -29,4 +29,6 @@ The project implements basic AI behavior using a simple neural network, allowing
 ├── sensor.js           # Simulates the car's vision
 ├── controls.js         # User and AI control inputs
 ├── network.js          # Neural network logic
+├── visualizer.js       # Draws the neural network (AI brain) in real-time
 ├── utils.js            # Utility functions
+
